@@ -4,7 +4,7 @@
 
 ## 🎯 What You'll Build
 
-Take messy PDF and DOCX files and extract clean, readable text. Think of it like a translator that turns formatted documents into simple text our AI can understand.
+Take messy PDF files and extract clean, readable text. Think of it like a translator that turns formatted documents into simple text our AI can understand.
 
 **Your Input:** `candidate_resume.pdf`  
 **Your Output:** Clean text without formatting mess
@@ -14,7 +14,6 @@ Take messy PDF and DOCX files and extract clean, readable text. Think of it like
 ## 🛠️ Your Responsibilities
 
 - Extract text from PDF files
-- Extract text from DOCX files  
 - Handle plain text files
 - Clean up the extracted text (remove extra spaces, weird characters)
 - Make sure all text is readable and properly formatted
@@ -34,7 +33,7 @@ resume_parser/
 
 ## 🎓 What You'll Learn
 
-- Working with PDF and DOCX libraries
+- Working with PDF libraries
 - Text cleaning and normalization
 - Handling different file formats
 - Writing testable code
